@@ -305,8 +305,13 @@ footer {
   }
   /*imagem principal respomsiva*/
   .foto-p{
-    width: 90%;
-    height: 90%;
+    width: 80%;
+    height: 80%;
+  }
+  /*imagen bebida */
+  imgDrink{
+    width: 80%;
+    height: 80%;
   }
 
   /* Layout do mapa: inverte elementos filhos na vertical */
