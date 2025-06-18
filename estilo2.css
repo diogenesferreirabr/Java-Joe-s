@@ -303,6 +303,11 @@ footer {
     display: block;
     margin: 0 auto;
   }
+  /*imagem principal respomsiva*/
+  .foto-p{
+    width: 90%;
+    height: 90%;
+  }
 
   /* Layout do mapa: inverte elementos filhos na vertical */
   .mapa {
