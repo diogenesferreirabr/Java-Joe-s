@@ -223,11 +223,11 @@ h1, h2 {
   text-align: center;
   margin-top: 30px;
 }
-iframe{
+/*iframe{
   width: 150%;
   height: 100%;
   border-radius: 5px;
-}
+}*/
 .loja12 {
     display: flex;
     justify-content: center;  /* Centraliza o conteúdo da loja */
