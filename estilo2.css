@@ -309,9 +309,8 @@ footer {
     height: 100%;
   }
   /*imagen bebida */
-  .imgDrink{
+  .imgDrink {
     width: 90%;
-    max-width: 150px;
     height: auto;
   }
 
@@ -357,5 +356,4 @@ footer {
     margin: 0 auto;
   }
   
-}
   
