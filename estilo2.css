@@ -327,7 +327,7 @@ footer {
     display: flex;
     flex-direction: column;
   }
-  .imgDrink{
+  #img-drink{
     width: 90%;
     height: 90%;
   }
