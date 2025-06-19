@@ -225,6 +225,7 @@ h1, h2 {
 }
 iframe{
   width: 100%;
+  height: auto;
 }
 .loja12 {
     display: flex;
