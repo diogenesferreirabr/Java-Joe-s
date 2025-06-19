@@ -276,6 +276,10 @@ footer {
     gap: 10px;
     margin-top: 10px;
   }
+  .imgDrink{
+    width: 20%;
+    height: 20%;
+  }
 
   /* Botão flutuante do WhatsApp */
   .botao-whatsapp {
@@ -333,12 +337,6 @@ footer {
     flex-direction: column;
   }
   }
-  /*imagen bebida */
-  .imgDrink{
-    width: 20px;
-    height: auto;
-  }
-
   /* Rodapé adaptado */
   footer {
     background-color: black;
