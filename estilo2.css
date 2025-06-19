@@ -332,6 +332,14 @@ footer {
     display: flex;
     flex-direction: column;
   }
+   iframe {
+    width: 90%;
+    max-width: 80%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+   }
   }
   /* Rodapé adaptado */
   footer {
@@ -347,13 +355,6 @@ footer {
 
   /* iframe adaptado para nao sobresair das outras divs */
   
-  iframe {
-    width: 90%;
-    max-width: 80%;
-    height: auto;
-    border-radius: 8px;
-    display: block;
-    margin: 0 auto;
-  }
+ 
   
   
