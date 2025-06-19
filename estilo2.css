@@ -309,10 +309,10 @@ footer {
     height: 100%;
   }
   /*imagen bebida */
-  .imgDrink{
+  /*.imgDrink{
     width: 20%;
     height: 20%;
-  }
+  }*/
 
   /* Layout do mapa: inverte elementos filhos na vertical */
   .mapa {
@@ -331,6 +331,12 @@ footer {
   #bebida{
     display: flex;
     flex-direction: column;
+  }
+  }
+  /*imagen bebida */
+  .imgDrink{
+    width: 20px;
+    height: auto;
   }
 
   /* Rodapé adaptado */
