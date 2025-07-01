@@ -6,4 +6,4 @@ let data_atual = new Date();
 
 // impremir a variavel data em uma div html
 
-document.getElementById("tempo").innerText = data_atual;
+document.getElementById("data").innerText = data_atual;
